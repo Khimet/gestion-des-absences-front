@@ -46,13 +46,13 @@ Au travers de cette application toute demande d'absence possède un cycle de vie
 
  
 
-Lorsque une demande d'absence vient d'être faite par un employé celle-ci a un statuts INITIAL.
+Lorsque une demande d'absence vient d'être faite par un employé celle-ci a un statut INITIAL.
 
-Un traitement automatique de nuit a été implémenté dans le processus, il a pour but de mettre à jour le statuts des demandes d'absences et de mettre à jour le compteur du nombre de congés payés et de RTT attribué à l'employé par année. En loccurence dans cette application chaque employé a droit à 25 jours de congés payés et 11 jours de RTT par an. 
+Un traitement automatique de nuit a été implémenté dans le processus, il a pour but de mettre à jour le statut des demandes d'absences et de mettre à jour le compteur du nombre de congés payés et de RTT attribué à l'employé par année. En loccurence dans cette application chaque employé a droit à 25 jours de congés payés et 11 jours de RTT par an. 
 
-Ce traitement de nuit change le statuts des demandes d'absences qui ont le statuts INITIAL pour le statuts EN_ATTENTE_DE_VALIDATION et décrémente d'un jour le compteur. 
+Ce traitement de nuit change le statuts des demandes d'absences qui ont le statut INITIAL pour le statut EN_ATTENTE_DE_VALIDATION et décrémente d'un jour le compteur. 
 
-Le manager pourra par la suite décider de passer la demande au statuts VALIDE ou au statuts REJETE. Si la demande est rejetée par le compteur des absences est réincrémenté d'un jour.
+Le manager pourra par la suite décider de passer la demande au statut VALIDE ou au statut REJETE. Si la demande est rejetée par le compteur des absences est réincrémenté d'un jour.
 
 ## Capture d'écrans - Démo
 
