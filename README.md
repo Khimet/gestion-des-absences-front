@@ -6,8 +6,8 @@
 
 *Gestion des Absences* est une application web développée avec Spring et Angular par [Robin-lad](https://github.com/Robin-lad), [sanaeltahhan](https://github.com/sanaeltahhan), [Vokan](https://github.com/Vokan) et moi-même (Khimet). Ce projet a été développé en mode scrum sur un sprint de 12 jours.
 
-[1. Présentation](#présentation)
-[2. Captures d'écrans - démo](#capture-d'écrans---démo)
+[1. Présentation](#présentation)  
+[2. Captures d'écrans - démo](#capture-d'écrans---démo)  
 [3. Utiliser l'application](#utiliser-l'application)
 
 ## Présentation
